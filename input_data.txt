@@ -1,0 +1,5 @@
+Sample data: A
+X
+B
+Y
+C
